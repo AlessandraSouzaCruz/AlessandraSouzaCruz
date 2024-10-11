@@ -2,7 +2,7 @@
 
 🎯 Meu foco é transformar dados em informações valiosas.
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em Análise de Dados com um curso de extensão que abrange ETL, Modelagem de Dados, SQL, Bancos de Dados, Conexão em APIs, Visualização de Dados, Power BI, Figma, Estatística, Python e Machine Learning.
+🎓 Sou formada em Análise e Desenvolvimento de Sistemas, e estou me especializando em Análise de Dados através de um curso de extensão que cobre ETL, Modelagem de Dados, SQL, Bancos de Dados, Conexão em APIs, Visualização de Dados, Power BI, Figma, Estatística, Python e Machine Learning.
 
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/26b30fb08747a22b4409f1ab969d33d3.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br/>
